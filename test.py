@@ -1,3 +1,3 @@
 
 def version():
-    return "version 1"
+    return "version 2"
